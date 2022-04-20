@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+.intro {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.guide  {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.desc {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
+}
+
+.camp {
+    border-radius: 50px;
+}
+
+.phone {
+    height: 125px;
+    width: 75px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: medium;
+    font-weight: 300;
+}
